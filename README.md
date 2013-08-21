@@ -1,4 +1,4 @@
 erbesino
 ========
 
-my sample repo
+This is just a sample repo for me to study github
